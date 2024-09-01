@@ -3,7 +3,12 @@
 #include <time.h>
 #include "random.h"
 
-
+/*
+Name: Nicholas Simon
+Class: Operating Systems
+Prject 0: Intro to Git
+Date: 09/01/2023
+*/
 
 int main()
 {
